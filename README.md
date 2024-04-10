@@ -1,21 +1,21 @@
 
 
-## Welcome!
+## Welcome to My Spending App!
 
-In this repo you can find two files with the original data. It's a log of financial transactions and reference file for currency conversion.
+In this repo you can find two files with the original data. It's a log of some company's spending over time and a reference file for currency conversion.
 We'd like to have a basic tool to see the dynamics of the money flow over time.
 
-The point of this asignment is primarily to see your coding practices and approaches to problems. We'd like to see our tool working, but don't worry too much if the calculations are off.
+The point of this assignment is primarily to see your coding practices and approaches to problems. We'd like to see our tool working, but don't worry too much if the calculations are off.
 * Please focus on making smaller commits to allow us to understand your reasoning process.
 
 
 ## Requirements
 
-- We should be able to calculate and display the summed up amounts of transactions: 
+We should be able to calculate and display the summed up amounts of transactions: 
 * Grouped by time frame (Daily, Monthly, Yearly)
 * Converted into currency of choice (every currency present in the dataset. We imagine that the currency rates are not changing over time)
 * For a certain number of time frames from now
-Essetially, we should be able to see the response to a request: "Give me the amounts of monthly transactions convered into Euro for the past 5 months starting from now"
+Essentially, we should be able to see the response to a request: "Give me the amounts of monthly transactions converted into Euro for the past 5 months starting from now"
 
 ## Backend assignment
 
@@ -36,6 +36,7 @@ You can use any library of your choice.
 Complete the application end-to-end!
 
 <img width="1128" alt="SpendingApp-screenshot" src="https://github.com/peterValknut/poli-test/assets/38632117/23a09c61-7308-49d0-89bf-5bb77181427e">
+
 
 
 
